@@ -1,0 +1,12 @@
+## VENV
+/flask_env
+
+
+## VS CODE
+/.vscode
+
+# NOTES
+notes.txt
+
+# __pycache__
+/__pycache__
